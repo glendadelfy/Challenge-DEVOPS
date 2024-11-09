@@ -81,12 +81,18 @@ docker run -d -p 8080:8080 challenge-dotnet
 docker compose up
 
 docker build -t challenge-dotnet -f Dockerfile .
- 
+ ![image](https://github.com/user-attachments/assets/d9c66ae2-b1e1-4a91-9478-0c340bdf02b8)
+
 
 docker build -t challenge-dotnet  .
+![image](https://github.com/user-attachments/assets/9224cd81-10d3-451a-ba4f-fbf13cdef6e4)
+
  
 docker run -d -p 8080:8080 challenge-dotnet 
 docker compose up
+
+![image](https://github.com/user-attachments/assets/88a378d7-8c86-4240-91fc-2a8a20b57b91)
+
  
 
 
